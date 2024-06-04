@@ -3,6 +3,11 @@ Cuidados na hora de um hospedagem
 Organizar as paginas 
 
 /assets
+  /img 
+  /css
+  /pdfs
+  /txt
+
 Index sempre fora
 Quando for criar um sub-site, o index fica dentro dela
  Testes:
