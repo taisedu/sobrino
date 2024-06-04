@@ -1,0 +1,17 @@
+Cuidados na hora de um hospedagem 
+
+Organizar as paginas 
+
+/assets
+Index sempre fora
+Quando for criar um sub-site, o index fica dentro dela
+ Testes:
+      Xindex.com 
+
+
+Meios de hospedagem: 
+
+  Hospedagem via CPanel
+  Como hospedar pelo windows: ftp://ftp.locaweb.com.br/
+
+  https://filezilla-project.org/
